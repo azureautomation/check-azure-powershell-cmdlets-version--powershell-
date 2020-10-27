@@ -1,7 +1,7 @@
 {
     "Author": "Ken Cenerelli",
     "ContentSize": 557,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-azure-powershell-cmdlets-version-(powershell)/master/Get-AzurePowerShellCmdletsVersion.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-azure-powershell-cmdlets-version--powershell-/master/Get-AzurePowerShellCmdletsVersion.ps1",
     "DownloadCount": 3006,
     "Id": "Azure-PowerShell-cmdlets-13dc4937",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This PowerShell script will show you how to determine the current version of your Microsoft Azure PowerShell cmdlets. The script requires no parameters. This PowerShell script was created for the TechNet Wiki article Azure PowerShell cmdlets version updates by Ken Cenerelli.",
     "Title": "Check Azure PowerShell cmdlets version (PowerShell)",
     "UpdatedDate": "2016-5-2T00:00:00",
-    "Url": "https://github.com/azureautomation/check-azure-powershell-cmdlets-version-(powershell)",
+    "Url": "https://github.com/azureautomation/check-azure-powershell-cmdlets-version--powershell-",
     "UserTags": "Azure, Microsoft Azure, Powershell"
 }
